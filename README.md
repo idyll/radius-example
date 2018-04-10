@@ -12,13 +12,16 @@ mix phx.server
 iex -S mix phx.server
 ```
 
-
-
 I have been testing with free radius:
 
 ```
 echo "User-Name=test,User-Password=mypass" | radclient 127.0.0.1:1812 auth secret
 ```
+
+If I call the `RadiusServer.server/0` in application `start/2` it works.
+But that means I am calling `spawn`.
+
+
 
 ## Phoenix
 

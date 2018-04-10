@@ -8,10 +8,31 @@ defmodule RadiusServer do
   # Require dictionary macros
   require Attr
 
+  def server() do
+    :application.ensure_all_started(:eradius)
+    # See config/config.exs for example configuration
+    spawn(fn ->
+            # this should be called in application starts, that eradius linked to application and
+            # stops distributing requests to a module, if application is not running
+            :eradius.modules_ready([__MODULE__])
+            :timer.sleep(:infinity)
+          end)
+  end
+
   @doc """
   Implementation of a callback.
   """
   def radius_request(radius_request(cmd: :request) = request, _nas_prop, _handler_args) do
+    username = :eradius_lib.get_attr(request, Attr.user_name)
+    password = :eradius_lib.get_attr(request, Attr.user_password)
+
+    Logger.log(:info, "Authenticated user #{username} with password #{password}")
+
+    #{:reply, radius_request(cmd: :reject)}
+    {:reply, radius_request(cmd: :accept)}
+  end
+
+  def radius_request(radius_request(cmd: :accreq) = request, _nas_prop, _handler_args) do
     username = :eradius_lib.get_attr(request, Attr.user_name)
     password = :eradius_lib.get_attr(request, Attr.user_password)
 

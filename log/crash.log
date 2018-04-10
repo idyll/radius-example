@@ -16,3 +16,541 @@
      Reason:     normal
      Offender:   [{pid,<0.397.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
 
+2018-04-10 11:07:12 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.205.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:07:45 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.205.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:08:14 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.210.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:09:26 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.210.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:10:33 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.526.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:11:27 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.526.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:15:09 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.526.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:16:24 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.525.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:17:39 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.525.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:19:27 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.209.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:23:46 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.218.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:24:36 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.218.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:25:16 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.209.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:26:28 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.526.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:27:10 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.526.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:29:48 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.224.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:30:03 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.505.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.2076037934.3389259782.152271>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.306.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.370.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:30:08 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.506.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.2076037934.3389259782.152272>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.306.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.370.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:30:13 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.507.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.2076037934.3389259782.152277>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.306.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.370.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:31:29 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.219.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:31:41 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.210.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:31:44 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.491.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.2952308943.3926130690.156577>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.292.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.356.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:31:49 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.492.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.2952308943.3926130694.156749>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.292.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.356.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:31:54 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.493.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.2952308943.3926130694.156755>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.292.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.356.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:33:07 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.219.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:33:21 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.210.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:33:27 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.491.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.3323765014.168558594.29497>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.292.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.356.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:33:32 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.492.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.3323765014.168558594.29502>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.292.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.356.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:34:12 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.219.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:34:16 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.500.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.3205166336.1510735878.16463>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.301.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.365.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:34:21 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.501.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.3205166336.1510735878.16473>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.301.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.365.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:34:26 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.502.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.3205166336.1510735878.16483>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.301.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.365.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:34:43 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.526.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:34:52 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.210.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:34:56 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.491.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.1317325850.3389784065.226836>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.292.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.356.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:35:01 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.492.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.1317325850.3389784065.226837>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.292.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.356.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:35:06 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.493.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.1317325850.3389784065.226843>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.292.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.356.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:36:10 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.525.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:36:13 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.806.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.1828257336.2047344641.214964>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.729.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.793.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:36:18 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.807.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.1828257336.2047344641.214969>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.729.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.793.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:36:53 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.525.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:36:54 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.806.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.4055000106.2584477699.14023>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.729.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.793.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:36:59 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.807.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.4055000106.2584477699.14032>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.729.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.793.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:37:22 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.525.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:37:23 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.806.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.80143530.1510473730.257484>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.729.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.793.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:37:28 =CRASH REPORT====
+  crasher:
+    initial call: eradius_server:do_radius/6
+    pid: <0.807.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,phash2,[#Ref<0.80143530.1510473730.257487>,0],[]},{eradius_server,run_handler,4,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,264}]},{eradius_server,do_radius,6,[{file,"/Users/madsen/Projects/AAI/radius_example/deps/eradius/src/eradius_server.erl"},{line,207}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]
+    ancestors: ['eradius_server_0.0.0.0:1812',eradius_server_sup,eradius_server_top_sup,eradius_sup,<0.729.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.793.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 255
+  neighbours:
+2018-04-10 11:39:23 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.525.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:39:46 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.218.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:40:07 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.209.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:42:09 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.218.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:43:09 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.526.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:44:29 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.1794.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2018-04-10 11:46:58 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.205.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',start_link,[{error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+

@@ -17,6 +17,8 @@ config :radius_example, RadiusExampleWeb.Endpoint,
 config :logger, :console,
   format: "$time $metadata[$level] $message\n",
   metadata: [:user_id]
+
+:application.load(:eradius)
 config :eradius,
   # defines radius callback, which should be called
   radius_callback: RadiusServer,

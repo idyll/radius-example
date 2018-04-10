@@ -5,7 +5,11 @@ defmodule RadiusExample.Application do
   # for more information on OTP Applications
   def start(_type, _args) do
     import Supervisor.Spec
-    :eradius.modules_ready([__MODULE__])
+    # :application.ensure_all_started(:eradius)
+    # :eradius.modules_ready([__MODULE__])
+
+    # why do I need to spawn here. Why can't I just call modules_ready/1
+    RadiusServer.server()
 
     # Define workers and child supervisors to be supervised
     children = [
